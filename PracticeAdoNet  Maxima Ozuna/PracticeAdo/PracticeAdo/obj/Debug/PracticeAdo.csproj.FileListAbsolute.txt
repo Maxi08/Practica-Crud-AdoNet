@@ -1,0 +1,11 @@
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\bin\Debug\PracticeAdo.exe.config
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\bin\Debug\PracticeAdo.exe
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\bin\Debug\PracticeAdo.pdb
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\obj\Debug\PracticeAdo.csprojAssemblyReference.cache
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\obj\Debug\PracticeAdo.CrearRegistros.resources
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\obj\Debug\PracticeAdo.Form1.resources
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\obj\Debug\PracticeAdo.Properties.Resources.resources
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\obj\Debug\PracticeAdo.csproj.GenerateResource.cache
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\obj\Debug\PracticeAdo.csproj.CoreCompileInputs.cache
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\obj\Debug\PracticeAdo.exe
+C:\Users\Maxima\source\repos\PracticeAdo\PracticeAdo\obj\Debug\PracticeAdo.pdb
